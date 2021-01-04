@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+	<student eid="a">
+		<regno>190030052</regno>
+		<name>Srinivas</name>
+		<gpa>9.2</gpa>
+		<branch>CSE</branch>
+	</student>
+
+	<student eid="b">
+		<regno>190031067</regno>
+		<name>Arshad</name>
+		<gpa>9.3</gpa>
+		<branch>ECE</branch>
+	</student>
+
+	<student eid="d">
+		<regno>190031166</regno>
+		<name>Saikrishna</name>
+		<gpa>9.4</gpa>
+		<branch>CSE</branch>
+	</student>
+	
+	<student eid="e">
+		<regno>190030111</regno>
+		<name>Hemanth</name>
+		<gpa>9.1</gpa>
+		<branch>CSE</branch>
+	</student>
+
+    <student eid="f">
+		<regno>190030050</regno>
+		<name>Manoj</name>
+		<gpa>9.3</gpa>
+		<branch>CSE</branch>
+	</student>
+	
+</Student>
